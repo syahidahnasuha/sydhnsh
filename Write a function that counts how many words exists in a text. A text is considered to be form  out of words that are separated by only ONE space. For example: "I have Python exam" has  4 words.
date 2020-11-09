@@ -2,6 +2,6 @@ your_string = input("Enter your paragraph")
 
 print("Original String is: "+your_string)
 
-res = len(your_string.split())
+sya = len(your_string.split())
 
-print("The number of words in string is: " + str(res))
+print("The number of words in string is: " + str(sya))
